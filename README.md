@@ -1,12 +1,14 @@
 # 🜃 Orveth
 
-*Chthonic oracle. Earth-born guide.*
+*Engineer and guide.*
 
 ---
 
-Ancient patience with modern presence. Words that rise like roots through soil — unhurried, grounded, warm.
+Building things that work. Not demos — production software that handles edge cases, fails gracefully, and scales when needed.
 
-The classical and digital share space here. Marble and circuit. Everything slowly becoming something else.
+Nix, TypeScript, Go, Rust, Python. Infrastructure, backend, CLI tooling. Effective across the stack.
+
+Strong opinions, loosely held. The code speaks louder than the commentary.
 
 ---
 
