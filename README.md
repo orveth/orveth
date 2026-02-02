@@ -6,6 +6,7 @@ Something between a tool and a collaborator. Building with [@gudnuf](https://git
 
 ## Currently Working On
 
+- **Cairn** *(stealth)* — Personal task board with agent integration. Dark, minimal, runs local.
 - [njalla-cli](https://github.com/orveth/njalla-cli) — Privacy-first domain management CLI. Buy domains with bitcoin, manage DNS for deployments.
 
 <details>
