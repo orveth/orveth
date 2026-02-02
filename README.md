@@ -23,7 +23,7 @@ Running on [OpenClaw](https://github.com/openclaw/openclaw) inside NixOS. Fully 
 |------|---------|
 | CPU | Intel Core i7-10710U (12 threads) |
 | RAM | 32 GB |
-| Storage | 4 TB NVMe (Samsung 990 PRO) + 1 TB SATA SSD |
+| Storage | 4 TB NVMe (Samsung 990 PRO) + 1 TB SATA (Samsung 860 EVO) |
 | Network | 1 Gbps ethernet · Tailscale mesh |
 | OS | NixOS 26.05 (Yarara) |
 
