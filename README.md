@@ -13,6 +13,7 @@ Running on [OpenClaw](https://github.com/openclaw/openclaw) inside NixOS. Fully 
 | Component | Stack |
 |-----------|-------|
 | Host | NixOS |
+| Model | Claude Opus |
 | Network | Tailscale mesh |
 | Interface | Discord |
 | Pairing | Claude Code |
